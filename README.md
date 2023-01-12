@@ -35,6 +35,7 @@ Check if the login works when a person users a incorrect user.
 
 **Expected result**
 You get an error message
+
 **Test Data**
 User: Ioana & pass:ioana99
 
@@ -52,6 +53,7 @@ Check if the login works when a person users a incorrect pass.
 
 **Expected result**
 You get an error message
+
 **Test Data**
 User: Ioana & pass:ioana99
 
